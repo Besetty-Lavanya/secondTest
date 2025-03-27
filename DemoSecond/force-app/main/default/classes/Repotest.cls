@@ -1,0 +1,6 @@
+public class Repotest {
+    public static void statementDisplay(){
+        System.debug('Hello Git ');
+    }
+
+}
